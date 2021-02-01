@@ -47,7 +47,7 @@ I selected two projects and wrote short "abouts" with accompaying images.
 
 ## Functionality 
 <b>See deployed link here:</b><br>
-<h3><a href="https://ffakih5.github.io/Travelmate/dashboard/index.html"> TravlMate Site</a></h3>
+<h3><a href="https://media.giphy.com/media/keyTUWnZTXAWCHxqgt/giphy.gif"> My Profile</a></h3>
 
 ![TravlMate GIF](https://media.giphy.com/media/Pl8Mj1FI477DKdaJwg/giphy.gif)
 
